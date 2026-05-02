@@ -1,0 +1,9 @@
+Passive color ff5d5d
+Passive/Text font size: 12
+Attack/DMG font size: 23
+
+
+Select the move tool (v) to make damage numbers not have a bounding box and line up properly.
+
+If there is more than one attack, and an attack doesn't have a description, set the "Set leading" (The gap between text lines) to 34 on the attack below
+the one without a description. (Just the attack name)
